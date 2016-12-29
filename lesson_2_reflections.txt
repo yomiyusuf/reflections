@@ -1,0 +1,7 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: It creates the necessary files and structure needed tot rack the files in the repo
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: It contains only files from the working directory that intends to be commited to the repository.
